@@ -15,9 +15,9 @@ This analysis is intended to help predict lending risk given a variety of econom
 Using bulleted lists, describe the accuracy scores and the precision and recall scores of all machine learning models.
 
 * Machine Learning Model 1:
-    Accuracy score: the accuracy score is 0.99, which means that out of 19,384 total predicted observations, only 1% of those were incorrectly diagnosed.
-    Precision score: the precision score for predicted healthy loans is 1.00, which indicates that nearly 100% of healthy predictions were accurate and under 1% of those predicted ended up being unhealthy. On the other hand, the precision score for predicted unhealthy loans is 0.85, meaning that 85% of predictions were accurate, and 15% were actually healthy loans predicted incorrectly.
-    Recall scores: the recall score for healthy loans is 0.99, which means that out of all loans that were actually healthy, just over 1% of healthy loans were misdiagnosed. For unhealthy loans the recall score is 0.91, meaning around 9% of actually unhealthy loans were misdiagnosed as healthy ones.
+    ****Accuracy score: the accuracy score is 0.99, which means that out of 19,384 total predicted observations, only 1% of those were incorrectly diagnosed.
+    ****Precision score: the precision score for predicted healthy loans is 1.00, which indicates that nearly 100% of healthy predictions were accurate and under 1% of those predicted ended up being unhealthy. On the other hand, the precision score for predicted unhealthy loans is 0.85, meaning that 85% of predictions were accurate, and 15% were actually healthy loans predicted incorrectly.
+    ****Recall scores: the recall score for healthy loans is 0.99, which means that out of all loans that were actually healthy, just over 1% of healthy loans were misdiagnosed. For unhealthy loans the recall score is 0.91, meaning around 9% of actually unhealthy loans were misdiagnosed as healthy ones.
 
 ## Summary
 
